@@ -1,0 +1,25 @@
+WarehouseName;ProductBarcode;ProductName;CategoryName;ManufacturerName;InvoiceNumber;SupplierContractNumber;CarrierName;ShipmentDate;Quantity;PricePerUnit;UnitWeight
+Minsk-Central;1112223334445;Chocolate Chip Cookies;Flour Confections;Sweet Bite Inc.;2001;SUP123456;Speedy Delivery; 2024-01-15;1200; 2.95;1
+Minsk-West;2223334445556;Hard Candy Mix;Sugar Confections;CandyCraft;2002;SUP123457;Quick Transport; 2024-01-20;2000; 1.75;2
+Minsk-Central;3334445556667;Frosted Cupcakes;Flour Confections;Sweet Bite Inc.;2003;SUP123456;Fast Track Couriers; 2024-02-15;1500; 3.50;3
+Minsk-West;4445556667778;Gummy Bears;Sugar Confections;CandyCraft;2004;SUP123457;Efficient Movers; 2024-02-20;1800; 2.00;5
+Minsk-Central;5556667778889;Cinnamon Rolls;Flour Confections;Sweet Bite Inc.;2005;SUP123456;Direct Transport; 2024-03-05;1000; 3.73;1
+Minsk-West;6667778889990;Toffee Bits;Sugar Confections;CandyCraft;2006;SUP123457;Reliable Freight; 2024-03-10;2200; 1.80;2
+Minsk-Central;1112223334445;Chocolate Chip Cookies;Flour Confections;Sweet Bite Inc.;2007;SUP123456;Speedy Delivery; 2024-04-15;2400; 2.99;1
+Minsk-West;2223334445556;Hard Candy Mix;Sugar Confections;CandyCraft;2008;SUP123457;Quick Transport; 2024-04-20;4000; 1.75;2
+Minsk-Central;3334445556667;Frosted Cupcakes;Flour Confections;Sweet Bite Inc.;2009;SUP123456;Fast Track Couriers; 2024-05-15;3000; 3.50;3
+Minsk-West;4445556667778;Gummy Bears;Sugar Confections;CandyCraft;2010;SUP123457;Efficient Movers; 2024-05-20;3600; 2.00;5
+Minsk-Central;5556667778889;Cinnamon Rolls;Flour Confections;Sweet Bite Inc.;2011;SUP123456;Direct Transport; 2024-06-05;2000; 3.75;1
+Minsk-West;6667778889990;Toffee Bits;Sugar Confections;CandyCraft;2012;SUP123457;Reliable Freight; 2024-06-10;2400; 1.80;2
+Minsk-Central;1112223334445;Chocolate Chip Cookies;Flour Confections;Sweet Bite Inc.;2013;SUP123456;Speedy Delivery; 2024-07-15;2400; 2.98;1
+Minsk-West;2223334445556;Hard Candy Mix;Sugar Confections;CandyCraft;2014;SUP123457;Quick Transport; 2024-07-20;8000; 1.75;2
+Minsk-Central;3334445556667;Frosted Cupcakes;Flour Confections;Sweet Bite Inc.;2015;SUP123456;Fast Track Couriers; 2024-08-15;3000; 3.50;3
+Minsk-West;4445556667778;Gummy Bears;Sugar Confections;CandyCraft;2016;SUP123457;Efficient Movers; 2024-08-20;3600; 2.10;5
+Minsk-Central;5556667778889;Cinnamon Rolls;Flour Confections;Sweet Bite Inc.;2017;SUP123456;Direct Transport; 2024-09-05;4000; 3.75;1
+Minsk-West;6667778889990;Toffee Bits;Sugar Confections;CandyCraft;2018;SUP123457;Reliable Freight; 2024-09-10;2400; 1.80;2
+Minsk-Central;1112223334445;Chocolate Chip Cookies;Flour Confections;Sweet Bite Inc.;2019;SUP123456;Speedy Delivery; 2024-10-15;2400; 2.99;1
+Minsk-West;2223334445556;Hard Candy Mix;Sugar Confections;CandyCraft;2020;SUP123457;Quick Transport; 2024-10-20;4000; 1.75;2
+Minsk-Central;3334445556667;Frosted Cupcakes;Flour Confections;Sweet Bite Inc.;2021;SUP123456;Fast Track Couriers; 2024-11-15;6000; 3.50;3
+Minsk-West;4445556667778;Gummy Bears;Sugar Confections;CandyCraft;2022;SUP123457;Efficient Movers; 2024-11-20;3600; 2.10;5
+Minsk-Central;5556667778889;Cinnamon Rolls;Flour Confections;Sweet Bite Inc.;2023;SUP123456;Direct Transport; 2024-12-05;4000; 3.75;1
+Minsk-West;6667778889990;Toffee Bits;Sugar Confections;CandyCraft;2024;SUP123457;Reliable Freight; 2024-12-10;5000; 1.80;2
